@@ -14,8 +14,9 @@ export default function menu() {
         <Link href='/cart' className='header-button'>
           <div className='flex items-end'>
             <ShoppingCartIcon className='h-8 w-8' />
+            Cart
           </div>
-          Cart
+
           {/* <span className='font-bold>'>Cart</span> */}
         </Link>
       </nav>

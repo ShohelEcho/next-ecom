@@ -2,3 +2,6 @@ npx shadcn@latest add carousel
 npm install embla-carousel-autoplay
 npm i mongoose
 npm i zod
+npx shadcn@latest add card
+npm i react-medium-image-zoom
+npx shadcn@latest add separator

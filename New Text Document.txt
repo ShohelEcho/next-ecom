@@ -1,2 +1,4 @@
 npx shadcn@latest add carousel
 npm install embla-carousel-autoplay
+npm i mongoose
+npm i zod

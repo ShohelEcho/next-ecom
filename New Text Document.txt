@@ -5,3 +5,4 @@ npm i zod
 npx shadcn@latest add card
 npm i react-medium-image-zoom
 npx shadcn@latest add separator
+npm i zustand
